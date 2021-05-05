@@ -1,6 +1,5 @@
 # LightingProject
-For School OpengGL Projoect -> 
-计算机图形学 期末项目
+A School OpengGL Projoect
 ## Building Instruction
 - click cmd.bat
 - create a build folder "mkdir build" and change into it
